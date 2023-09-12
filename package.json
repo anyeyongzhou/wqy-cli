@@ -1,0 +1,22 @@
+{
+  "name": "wqyvue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "wqy": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["wqy","vue","cli"],
+  "author": "wangquanyu",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.9",
+    "open": "^8.4.2",
+    "vue": "^3.3.4"
+  }
+}
